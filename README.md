@@ -1,6 +1,9 @@
 <!-- Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman+-+Competitive+Programmer+%26+;Mentor+at+ICPC+MNU+Community;;" alt="Typing SVG"/>
+
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+  
 </p>
 
 <!-- Badges -->
@@ -69,7 +72,6 @@
 - **ICPC Problem Sets** → Algorithmic challenges for competitive programming teams.  
 
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 
 
