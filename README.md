@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman+-+Competitive+Programmer+%26+;Mentor+at+ICPC+MNU+Community;;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman+-+Competitive+Programmer+%26+Front-End+Developer;Mentor+at+ICPC+MNU+Community;Cybersecurity+Certified+%7C+1700%2B+Problems+Solved;Founder+of+Epic+To-Do+Master+%26+Dental+Clinic+Pro" alt="Typing SVG"/>
 </p>
 
 <!-- Badges -->
@@ -14,44 +14,62 @@
 ---
 
 ## 👨‍💻 About Me
-  <br>
-  🚀 Front-End Developer & Competitive Programmer  
-  🎯 Mentor & Problem Setter at ICPC MNU Community  
-  📚 Passionate about clean code, elegant solutions, and inspiring others  
+🚀 Front-End Developer & Competitive Programmer  
+🎯 Mentor & Problem Setter at ICPC MNU Community  
+🔐 Certified in Cybersecurity, Computer Science, and Problem Solving  
+📈 1700+ problems solved | 83-day streak | Rating 1450 → 1600  
+💡 Founder of Epic To-Do Master & Dental Clinic Pro  
+📚 Passionate about clean code, elegant solutions, and inspiring others  
+
 ---
 
 ## 🛠️ Skills
 <p align="center">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML%20%26%20CSS-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+
+  <!-- Systems & Tools -->
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-grey?style=for-the-badge&logo=windows"/>
+  <img src="https://img.shields.io/badge/Networking-008080?style=for-the-badge&logo=cisco"/>
+  <img src="https://img.shields.io/badge/Information%20Systems-006699?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github"/>
+
+  <!-- Computer Science & Problem Solving -->
+  <img src="https://img.shields.io/badge/Data%20Structures-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Coding%20Experience-brown?style=for-the-badge"/>
+
+  <!-- Soft Skills -->
+  <img src="https://img.shields.io/badge/Coaching%20%26%20Mentoring-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Communication-lightblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/English-darkblue?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📜 Certifications
-  <ul>
-    <li>🔐 Introduction to Cybersecurity – Cisco</li>
-    <li>🎓 Computer Science 101 – Stanford Online</li>
-    <li>🧠 Problem Solving – HackerRank</li>
-    <li>💻 C# (Basic) – HackerRank</li>
-    <li>🌐 Intro to Programming Using HTML & CSS – ITI</li>
-    <li>🐍 Python Programming – ITI</li>
-    <li>🧬 Introduction to Computer Science – HarvardX</li>
-  </ul>
+- 🔐 Introduction to Cybersecurity – Cisco  
+- 🎓 Computer Science 101 – Stanford Online  
+- 🧠 Problem Solving – HackerRank  
+- 💻 C# (Basic) – HackerRank  
+- 🌐 Intro to Programming Using HTML & CSS – ITI  
+- 🐍 Python Programming – ITI  
+- 🧬 Introduction to Computer Science – HarvardX  
 
 ---
 
 ## 📂 Featured Projects
-  <ul>
-    <li><b>Epic To-Do Master</b> → Task manager with categories, priorities, stats, and stunning UI.</li>
-    <li><b>ICPC Problem Sets</b> → Algorithmic challenges for competitive programming teams.</li>
-  </ul>
+- **Epic To-Do Master** → Task manager with categories, priorities, stats, and stunning UI.  
+- **Dental Clinic Pro** → Clinic management system with patient tracking and scheduling.  
+- **ICPC Problem Sets** → Algorithmic challenges for competitive programming teams.  
 
 ---
 
