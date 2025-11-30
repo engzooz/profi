@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines= Ziad+Ayman+-+Competitive+Programmer+%26+Mentor+at+ICPC+MNU+Community" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman+-+Competitive+Programmer+%26+Mentor+at+ICPC+MNU+Community" alt="Typing SVG"/>
 </p>
 
 <p align="center">
