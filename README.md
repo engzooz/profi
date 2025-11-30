@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img width="250" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+  <img width="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 </p>
 
 ---
