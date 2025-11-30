@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman+-+Competitive+Programmer+%26+Front-End+Developer;Mentor+at+ICPC+MNU+Community;Cybersecurity+Certified+%7C+1700%2B+Problems+Solved;Founder+of+Epic+To-Do+Master+%26+Dental+Clinic+Pro" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman+-+Competitive+Programmer+%26+;Mentor+at+ICPC+MNU+Community;;" alt="Typing SVG"/>
 </p>
 
 <!-- Badges -->
@@ -14,11 +14,9 @@
 ---
 
 ## 👨‍💻 About Me
-🚀 Front-End Developer & Competitive Programmer  
+🚀  Competitive Programmer  
 🎯 Mentor & Problem Setter at ICPC MNU Community  
 🔐 Certified in Cybersecurity, Computer Science, and Problem Solving  
-📈 1700+ problems solved | 83-day streak | Rating 1450 → 1600  
-💡 Founder of Epic To-Do Master & Dental Clinic Pro  
 📚 Passionate about clean code, elegant solutions, and inspiring others  
 
 ---
