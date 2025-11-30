@@ -88,10 +88,10 @@
 ---
 
 ## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ziad/Ziad/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/engzooz/engzooz/output/github-contribution-grid-snake.svg" alt="Snake"/>
+\<p align="center">
+  <img src="https://raw.githubusercontent.com/engzooz/engzooz/output/github-contribution-grid-snake.svg"/>
 </p>
+
 
 ---
 
