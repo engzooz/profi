@@ -15,13 +15,9 @@
 
 ## 👨‍💻 About Me
 <details>
-  <summary><b>Click to expand</b></summary>
   <br>
   🚀 Front-End Developer & Competitive Programmer  
   🎯 Mentor & Problem Setter at ICPC MNU Community  
-  🔐 Cybersecurity Certified (Cisco, HarvardX, Stanford)  
-  🧠 Solved 1700+ problems | 83-day streak | Rating 1450 → 1600  
-  💡 Founder of Epic To-Do Master  
   📚 Passionate about clean code, elegant solutions, and inspiring others  
 </details>
 
@@ -43,7 +39,6 @@
 
 ## 📜 Certifications
 <details>
-  <summary><b>Click to expand</b></summary>
   <ul>
     <li>🔐 Introduction to Cybersecurity – Cisco</li>
     <li>🎓 Computer Science 101 – Stanford Online</li>
@@ -59,10 +54,8 @@
 
 ## 📂 Featured Projects
 <details>
-  <summary><b>Click to expand</b></summary>
   <ul>
     <li><b>Epic To-Do Master</b> → Task manager with categories, priorities, stats, and stunning UI.</li>
-    <li><b>Dental Clinic Pro</b> → Clinic management system with patient tracking and service scheduling.</li>
     <li><b>ICPC Problem Sets</b> → Algorithmic challenges for competitive programming teams.</li>
   </ul>
 </details>
