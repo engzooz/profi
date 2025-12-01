@@ -1,17 +1,14 @@
-<!-- Header -->
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman++Competitive+Programmer+%26+Mentor+at+ICPC+MNU+Community" alt="Typing SVG"/>
-</p>
-<!-- Animated Bio -->
-<p align="right">
-  <img width="150" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-</p>
-<p align="left">  👨‍💻 As a CS student in Minia University.</p>
-<p align="left">⚡ Skilled in C++ and C#, passionate about problem solving</p>
-<p align="left"> 💬 Ask me about my experience with c++ , Problem Solving , html, css , JavaScript.</p>
-<p align="left"> 📚 Certified in Cybersecurity, Computer Science, and Problem Solving</p>
-<p align="left"> 🔥 Driven by growth, consistency, and inspiring others through learning</p>
-
+<!-- Header with logo beside text -->
+<table>
+  <tr>
+    <td>
+      <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&width=500&lines=Ziad+Ayman+-+Competitive+Programmer+%26+Mentor+at+ICPC+MNU+Community" alt="Typing SVG"/>
+    </td>
+    <td>
+      <img width="120" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -34,6 +31,7 @@
 ---
 
 ## 🛠️ Skills
+
 ### 🔹 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
@@ -91,10 +89,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/engzooz"><img src="https://img.shields.io/badge/LinkedIn-Ziad-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://codeforces.com/profile/za0271497"><img src="https://img.shields.io/badge/Codeforces-za0271497-orange?style=for-the-badge&logo=codeforces"/></a>
-  <a href="https://www.linkedin.com/in/engzooz"><img src="https://img.shields.io/badge/LinkedIn-Ziad-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://codeforces.com/profile/za0271497"><img src="https://img.shields.io/badge/Codeforces-za0271497-orange?style=for-the-badge&logo=codeforces"/></a>
   <a href="https://www.facebook.com/ziad2005ayman"><img src="https://img.shields.io/badge/Facebook-Ziad-blue?style=for-the-badge&logo=facebook"/></a>
   <a href="https://www.instagram.com/ziad_ay_mohamed/"><img src="https://img.shields.io/badge/Instagram-ziad__ay__mohamed-pink?style=for-the-badge&logo=instagram"/></a>
   <a href="https://t.me/zz0_0zz0_0"><img src="https://img.shields.io/badge/Telegram-zz0__0zz0__0-0088cc?style=for-the-badge&logo=telegram"/></a>
-
 </p>
