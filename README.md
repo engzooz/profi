@@ -3,7 +3,7 @@
   <tr>
     <td>
       <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ziad%20Ayman&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ziad%20Ayman&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 </p>
     </td>
     <td>
