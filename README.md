@@ -2,7 +2,9 @@
 <table>
   <tr>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&width=500&lines=Ziad+Ayman+-+Competitive+Programmer+%26+Mentor+at+ICPC+MNU+Community" alt="Typing SVG"/>
+      <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ziad%20Ayman&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
     </td>
     <td>
       <img width="220" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="Coding GIF"/>
