@@ -3,11 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman++Competitive+Programmer+%26+Mentor+at+ICPC+MNU+Community" alt="Typing SVG"/>
 </p>
 <!-- Animated Bio -->
-<h1 align="center" style="color:#00FFFF;">✨ Ziad Ayman ✨</h1>
-<p align="center" style="color:#FF00FF;">Front-End Developer & Competitive Programmer</p>
-<p align="center" style="color:#FFD700;">Mentor at ICPC Minia National University</p>
-<p align="center" style="color:#00FF00;">Cybersecurity & Computer Science Certified</p>
-<p align="center" style="color:#FF4500;">Passionate about growth & learning 🔥</p>
+<p align="left">
+👨‍💻 Front‑End Developer & Competitive Programmer
+⚡ Skilled in C++ and C#, passionate about problem solving
+🎯 Mentor & Problem Setter at ICPC Minia National University
+📚 Certified in Cybersecurity, Computer Science, and Problem Solving
+🔥 Driven by growth, consistency, and inspiring others through learning
+</p>
+
 <p align="right">
   <img width="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 </p>
