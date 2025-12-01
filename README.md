@@ -1,10 +1,11 @@
 <!-- Header -->
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman++Competitive+Programmer+%26+Mentor+at+ICPC+MNU+Community" alt="Typing SVG"/>
- <p align="left"> Front-End Developer and competitive programmer with hands-on experience in C++ and C#, building efficient and scalable software solutions. With several years of experience mentoring and setting problems for ICPC teams at Minia National University, I have guided students to excel in national and international competitions.
 </p>
+<!-- Animated Bio -->
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=👨‍💻+Front-End+Developer+%26+Competitive+Programmer;⚡+Skilled+in+C%2B%2B+and+C%23,+passionate+about+problem+solving;🎯+Mentor+%26+Problem+Setter+at+ICPC+Minia+National+University;📚+Certified+in+Cybersecurity,+Computer+Science,+and+Problem+Solving;🔥+Driven+by+growth,+consistency,+and+inspiring+others+through+learning" alt="Typing SVG"/>
 </p>
-
 <؟
 
 <p align="right">
