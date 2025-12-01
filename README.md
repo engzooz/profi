@@ -3,8 +3,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=700&center=true&vCenter=true&width=700&lines=Ziad+Ayman++Competitive+Programmer+%26+Mentor+at+ICPC+MNU+Community" alt="Typing SVG"/>
 </p>
 <!-- Animated Bio -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733,F1C40F,2ECC71,3498DB,9B59B6&center=true&vCenter=true&width=700&lines=👨‍💻+Front-End+Developer+%26+Competitive+Programmer;⚡+Skilled+in+C%2B%2B+and+C%23;🎯+Mentor+%26+Problem+Setter+at+ICPC+MNU;📚+Certified+in+Cybersecurity+%26+Computer+Science;🔥+Driven+by+growth+%26+learning" alt="Gradient Animation"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/👨‍💻-Front--End--Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚡-Competitive--Programmer-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎯-ICPC--Mentor-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚-Certified--in--Cybersecurity-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔥-Driven--by--Growth-purple?style=for-the-badge"/>
 </p>
 <p align="right">
   <img width="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
